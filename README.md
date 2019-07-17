@@ -6,6 +6,9 @@
 - `VSCode` 编辑器，前后使用过Sublime Text、Atom，还是觉得VSCode最好用
 - `Insomnia` 网络请求测试工具，与postman相比它支持GraphQL
 - `Sourcetree` Git GUI
+- [ScreenToGif](https://www.screentogif.com/?l=zh_cn) 屏幕录制转GIF软件，在一些需要演示的场景下需要生成效果动态图，这款还是蛮好用的
+
+![ScreenToGif](https://raw.githubusercontent.com/wendygaoyuan/tool/master/ScreenToGif.jpg)
 
 ### VSCode 插件
 - `GitLens` Git日志插件
