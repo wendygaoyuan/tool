@@ -18,6 +18,8 @@
 - `Prettier` 美化代码，配合ESLint使用，完美~
 - `vscode-icons` 文件类型图标化，简单明了
 - `Document This` 快速添加JS方法注释
+- `Todo Tree` 顾名思义，快速搜索工作区内的TODO、FIXME 注释，以树状视图显示
+- `TODO Highlight` 高亮当前代码中的 TODO、FIXME 注释，以便更容易追踪任何未完成的业务
 
 ### Chrome 插件
 - [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip) 浏览器书签管理工具
